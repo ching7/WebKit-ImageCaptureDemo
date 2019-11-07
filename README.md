@@ -1,0 +1,2 @@
+# imageCaptureDemo
+基于HTML5、vue和WebKit的简单的图像采集处理demo
